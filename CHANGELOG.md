@@ -1,3 +1,12 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v24.0.0-alpha.11...v) (2023-01-25)
+
+
+### Bug Fixes
+
+* `inherit` stdio for electron-updater `exec` ([#7393](https://github.com/electron-userland/electron-builder/issues/7393)) ([#7394](https://github.com/electron-userland/electron-builder/issues/7394)) ([1bbcfb3](https://github.com/electron-userland/electron-builder/commit/1bbcfb3dc5f36b0803c69e9170db16ded52a0043))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v24.0.0-alpha.10...v) (2023-01-24)
 
 
